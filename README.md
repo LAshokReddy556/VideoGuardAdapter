@@ -1,0 +1,1 @@
+# VideoGuardAdapter is a adapter
